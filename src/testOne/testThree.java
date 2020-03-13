@@ -9,7 +9,7 @@ package testOne;
 public class testThree {
 
 	public static void main(String[] args) {
-		// TODO 自动生成的方法存根
+
 		int[] arr= {3,5,7,2,6,9,1};
 		PaiXu(arr);
 		
